@@ -57,18 +57,13 @@ I am a Software Developer based in Egypt, dedicated to engineering fluid, high-p
 ### 🏆 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AliFikry&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="Ali Fikry Trophies" />
-  </a>
+  <!-- GitHub Streak Stats (Highly reliable alternative server) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliFikry&theme=dracula&hide_border=true" alt="Ali's Streak Stats" />
 </div>
 <br>
 <div align="center">
-  <!-- GitHub Streak Stats (Highly reliable alternative server) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliFikry&theme=dracula&hide_border=true" alt="Ali's Streak Stats" />
-  
-  <!-- Top Languages (Added cache_seconds=86400 to prevent timeout crashes) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliFikry&layout=compact&langs_count=4&theme=dracula&hide_border=true&cache_seconds=86400" alt="Ali's languages graph" />
+  <!-- Highly Reliable Alternative: Metrics by Lecoq (Replaces Trophies and Languages) -->
+  <img src="https://metrics.lecoq.io/AliFikry?template=classic&base=repositories&languages=1&languages.limit=5&theme=dracula&config.timezone=Africa%2FCairo" alt="Ali's GitHub Metrics" />
 </div>
 
 ---
