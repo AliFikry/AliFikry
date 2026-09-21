@@ -59,14 +59,14 @@ I am a Software Developer based in Egypt, dedicated to engineering fluid, high-p
 <div align="center">
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AliFikry&theme=dracula&no-bg=true&no-frame=true&row=1&column=6&margin-w=15" alt="Ali Fikry Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AliFikry&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="Ali Fikry Trophies" />
   </a>
 </div>
 <br>
 <div align="center">
   <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AliFikry&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="165" alt="Ali's stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliFikry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="165" alt="Ali's languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliFikry&show_icons=true&theme=dracula&hide_border=true" alt="Ali's stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliFikry&layout=compact&langs_count=4&theme=dracula&hide_border=true" alt="Ali's languages graph" />
 </div>
 
 ---
