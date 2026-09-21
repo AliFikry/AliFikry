@@ -1,65 +1,85 @@
-<h2 align="left">Hi 👋! My name is Ali Fikry and I'm a Flutter Developer, from Egypt</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliFikry&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliFikry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+<div align="center">
+  <h1>Hi 👋, I'm Ali Fikry</h1>
+  <h3>Mobile Application Developer | Flutter & Dart Enthusiast 🇪🇬</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=55C8F5&center=true&vCenter=true&width=435&lines=Building+Cross-Platform+Mobile+Apps;Crafting+Interactive+Custom+UIs;Clean+Architecture+Advocate" alt="Typing SVG" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apple/000000" height="30" alt="apple logo"  />
+### 👨‍💻 About Me
+
+I am a passionate Software Developer based in Egypt, specializing in building high-performance, scalable mobile applications. I enjoy transforming complex requirements into smooth, interactive user experiences.
+
+- 📱 **Core Focus:** Building seamless apps using **Flutter & Dart** with **Clean Architecture**.
+- 🎨 **UI/UX:** I love designing interactive custom user interface components, physics-based UI elements, and complex animations using `CustomPainter`.
+- ⚙️ **Tech Arsenal:** Deep experience with **Firebase** (Firestore, FCM), RESTful APIs, **Google Mobile Ads (AdMob)**, and various state management solutions.
+- 🚀 **Projects:** From sports highlight streaming apps to e-commerce and booking platforms.
+- 🏎️ **Fun Fact:** When I'm not coding, I'm probably researching automotive mechanics or aftermarket engine modifications.
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+  <br>
+  <b>Mobile & Frontend</b><br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js" height="40" alt="frontend" />
+  <br><br>
+  <b>Backend & Database</b><br><br>
+  <img src="https://skillicons.dev/icons?i=firebase,nodejs,py,cs,kotlin" height="40" alt="backend" />
+  <br><br>
+  <b>DevOps, Tools & OS</b><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" alt="tools" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="https://wa.me/+201552161570" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliFikry&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliFikry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliFikry/AliFikry/output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliFikry/AliFikry/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AliFikry/AliFikry/output/snake.svg">
+  </picture>
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
+  </a>
+  <a href="https://wa.me/+201552161570" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram" />
+  </a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
+  </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AliFikry/AliFikry/output/snake.svg" alt="Snake animation" />
-
-###
